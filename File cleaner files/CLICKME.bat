@@ -8,7 +8,7 @@ echo credit to:
 PING -n 2 127.0.0.1>nul
 echo EnderGamerCubed (me)
 PING -n 2 127.0.0.1>nul
-echo Duedot43 (Syntax)
+echo Duedot43
 PING -n 2 127.0.0.1>nul
 echo FILLER2
 PING -n 2 127.0.0.1>nul
