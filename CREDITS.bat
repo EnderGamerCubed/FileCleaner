@@ -1,5 +1,5 @@
 @echo off
-Title README.bat
+Title CREDITS.bat
 echo Thank you for using FileCleaner.exe!
 echo Github:https://github.com/EnderGamerCubed/FileCleaner
 echo /\/\/\/\
@@ -9,15 +9,7 @@ echo credit to:
 PING -n 2 127.0.0.1>nul
 echo EnderGamerCubed (me)
 PING -n 2 127.0.0.1>nul
-echo Duedot43 (Syntax)
-PING -n 2 127.0.0.1>nul
-echo FILLER2
-PING -n 2 127.0.0.1>nul
-echo FILLER3
-PING -n 2 127.0.0.1>nul
-echo FILLER4
-PING -n 2 127.0.0.1>nul
-echo FILLER5
+echo Duedot43
 PING -n 3 127.0.0.1>nul
 CLS
 echo This was my first scipt, hopefully of many. I want to develop more scripts in the future,
